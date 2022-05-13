@@ -1,10 +1,5 @@
 # Dyskretna Transformata Hilberta
 
-$$
-Ha_n = \frac1\pi\sum_{k\in\Z\setminus\{0\}}\frac{a_n -k}{k}
-$$
-
----
 
 procedura obliczania:
 
@@ -12,14 +7,7 @@ procedura obliczania:
 
 2. utworzenie N-elementowej jednostronnej transformacji analityczne go wygnału Z[m]
 
-$$
-Z[m] =\begin{cases}
-        X[0]      & \quad \text{dla  } m = 0 \\
-        2X[m]    & \quad \text{dla } 1 \leq m \leq \frac{N}{2} -1\\
-        X[\frac{N}{2}]    & \quad \text{dla } m=\frac{N}{2} \\
-        0        &\quad \text{dla } \frac{N}{2} +1 \leq m \leq N-1\\ 
-  \end{cases}
-$$
+![alt text](https://latex2png.com/pngs/cfdd1974a1a87bd403f3d11608fefc50.png)
 
 3. Odwrotna transformata Fouriera Z[m]
 
