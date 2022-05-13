@@ -1,10 +1,8 @@
 # Periodogram
 
-Periodogram jest nieparametrycznym oszacowaniem gęstości widmowej mocy (PSD) szeroko rozumianego stacjonarnego sygnału zawiarającego elementy stochastyczne. Periodogram jest transformatą Fouriera obciążonej oceny sekwencji autokorelacji. Dla sygnału $xn$ próbkowanego z częstotliwością $fs$ próbek na jednostkę czasu, periodogram jest zdefiniowany jako:
+Periodogram jest nieparametrycznym oszacowaniem gęstości widmowej mocy (PSD) szeroko rozumianego stacjonarnego sygnału zawiarającego elementy stochastyczne. Periodogram jest transformatą Fouriera obciążonej oceny sekwencji autokorelacji. Dla sygnału_xn_ próbkowanego z częstotliwością _fs_ próbek na jednostkę czasu, periodogram jest zdefiniowany jako:
 
-$$
-\hat F(f) = \frac{\Delta t}{N} \Bigg | {\sum_{n=0}^{N - 1} x_ne^{-j2\pi \Delta t n}\Bigg | } ^2
-$$
+![alt text](https://latex2png.com/pngs/d073fc7a0721af1be0e1639df0c13107.png)
 
 ```matlab
 function [psdx] = Periodogram(inputArg,Fs)
