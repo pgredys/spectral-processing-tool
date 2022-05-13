@@ -1,20 +1,18 @@
-# Sygna³ analityczny
+# SygnaÅ‚ analityczny
 
-sygna³ analityczny korespondujê z sygna³em rzeczywistym, nie posiadaj¹c jednoczeœnie  ujemnych czêstotliwoœci. Sygna³ taki sk³ada siê z symy sygna³u rzeczywistego z jego transformat¹ Hilberta przemno¿on¹ przez jedn¹stkê urojon¹ $i$
+sygnaÅ‚ analityczny korespondujÄ™ z sygnaÅ‚em rzeczywistym, nie posiadajÄ…c jednoczeÅ›nie  ujemnych czÄ™stotliwoÅ›ci. SygnaÅ‚ taki skÅ‚ada siÄ™ z sumy sygnaÅ‚u rzeczywistego z jego transformatÄ… Hilberta przemnoÅ¼onÄ… przez jednÄ…stkÄ™ urojonÄ… _i_
 
-$$
-z(t) = f(t) +iH\{f(t)\}
-$$
+![alt text](https://latex2png.com/pngs/f6d62a88ade10456a896f8aae29c031f.png)
 
 ---
 
-Z transformacji Hilberta mo¿na wyprowadziæ nastêpuj¹ce wielkoœci:
+Z transformacji Hilberta moÅ¼na wyprowadziÄ‡ nastÄ™pujÄ…ce wielkoÅ›ci:
 
-* Amplituda chwilowa - bêd¹ca obwiedn¹ sygna³u rzeczywistego
+* Amplituda chwilowa - bÄ™dÄ…ca obwiednÄ… sygnaÅ‚u rzeczywistego
 
-* Faza  chwilowa - pulsacja sygna³u rzeczywistego
+* Faza  chwilowa - pulsacja sygnaÅ‚u rzeczywistego
 
-* Czêstotliwoœæ chwilowa - szybkoœæ zmian fazy tego sygna³u
+* CzÄ™stotliwoÅ›Ä‡ chwilowa - szybkoÅ›Ä‡ zmian fazy tego sygnaÅ‚u
 
 ---
 
@@ -33,8 +31,8 @@ end
 
 ---
 
-ród³a:
+Å¹rÃ³dÅ‚a:
 
-> Lawrence Marple, S. (1999). Computing the discrete-time analytic signal via fft. *IEEE Transactions on Signal Processing*, *47*(9), 2600–2603. https://doi.org/10.1109/78.782222
+> Lawrence Marple, S. (1999). Computing the discrete-time analytic signal via fft. *IEEE Transactions on Signal Processing*, *47*(9), 2600â€“2603. https://doi.org/10.1109/78.782222
 
 > Analytic Signals and Hilbert Transform Filters | Mathematics of the DFT (n.d.). Retrieved March 18, 2022, from https://www.dsprelated.com/freebooks/mdft/Analytic_Signals_Hilbert_Transform.html
