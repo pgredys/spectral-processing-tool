@@ -1,11 +1,9 @@
 # Obwiednia
 
 Obwiednia rozumiana jako ograniczenie danej rodziny krzywych. Bywa szczególnie często używane w odniesieniu do opisu interferencji dwóch sygnałów o nieznacznie różniących się częstotliwościach.
-Liczona z wykorzystaniem transformaty Hilberta jest równa amplitudzie chwilowej czyli wartości bezwzględnej amplitudy transformacji. Obwiednie dolną wyznacza się przez przemnożenie górnej przez $-1$
+Liczona z wykorzystaniem transformaty Hilberta jest równa amplitudzie chwilowej czyli wartości bezwzględnej amplitudy transformacji. Obwiednie dolną wyznacza się przez przemnożenie górnej przez _-1_
 
-$$
-A(t) = \mid H_{(F(t)} \mid
-$$
+![alt text](https://latex2png.com/pngs/20bd0566df0527bfa78f6bc6857e8264.png)
 
 ---
 
