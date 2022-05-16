@@ -11,7 +11,7 @@ Main functionalities developed in this project are:
 - [x] Detrending 
 - [x] Periodogram
 - [x] Welch
-- [ ] Viewing data in time domain
+- [x] Viewing data in time domain
 - [ ] Viewing data in frequency domain
 - [ ] Read/write data to file
 
