@@ -12,7 +12,7 @@ Main functionalities developed in this project are:
 - [x] Periodogram
 - [x] Welch
 - [x] Viewing data in time domain
-- [ ] Viewing data in frequency domain
+- [x] Viewing data in frequency domain
 - [ ] Read/write data to file
 
 ## Team members

@@ -1,6 +1,5 @@
 # Dyskretna Transformata Hilberta
 
-
 procedura obliczania:
 
 1. Dyskretna transformata Fouriera N-elementowego sygnału x[m]

@@ -1,14 +1,16 @@
 # Detrendowanie
 
-Funkcja detrendująca odejmuje od serii danych linię najlepszego dopasowania (w sensie najmniejszych kwadratów) określąną danym stopniem wielomianu _n_ . Usunięcie trendu z zestawu danych może zamiast tego pozwolić skupić się na fluktuacjach i zidentyfikować dowolną liczbę ważnych czynników.
+Funkcja degradująca odejmuje od serii danych linię najlepszego dopasowania (w sensie najmniejszych kwadratów) określaną danym stopniem wielomianu n . Usunięcie trendu z zestawu danych może zamiast tego pozwolić skupić się na fluktuacjach i zidentyfikować dowolną liczbę ważnych czynników.
 
 ---
 
 Procedura:
 
-1. obliczenie współczynników wielomianu najlepiej dopasowanego do seri danych (w sensie najmniejszych kwadratów)
+1. obliczenie współczynnikówwielomianu najlepiej dopasowanego do serii danych (w sensie najmniejszych kwadratów)
+
 2. Wyznaczenie krzywej z współczynników wielomianów
-3. Zwrócenie różnucy między krzywą dopasowaną do sygnału a sygnałem wejściowym
+
+3. Zwrócenie różnicy między krzywą dopasowaną do sygnału a sygnałem wejściowym
 
 ---
 
