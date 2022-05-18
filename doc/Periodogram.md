@@ -19,5 +19,3 @@ end
 Źródło:
 
 > *Periodogram power spectral density estimate - MATLAB periodogram*. (n.d.). Retrieved April 7, 2022, from https://www.mathworks.com/help/signal/ref/periodogram.html
-
-
