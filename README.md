@@ -6,14 +6,14 @@ GUI based spectral processing tool for data analysis. Tool should enable detrend
 
 Main functionalities developed in this project are:
 
-- [x] Hilbert transformation
-- [x] Envelope calculation 
-- [x] Detrending 
-- [x] Periodogram
-- [x] Welch
-- [x] Viewing data in time domain
-- [x] Viewing data in frequency domain
-- [ ] Read/write data to file
+- Hilbert transformation
+- Envelope calculation 
+- Detrending 
+- Periodogram
+- Welch
+- Viewing data in time domain
+- Viewing data in frequency domain
+- Read/write data to file
 
 ## Team members
 
@@ -22,7 +22,7 @@ Main functionalities developed in this project are:
 
 ## Affiliation
 
-This project was created in condition of realisation project classes for Mechatronic System Indentification subject under **Tadeusz Stepinski** supervision on <u>AGH University of Science and Technology in Kraków</u> in 2022.
+This project was created in condition of realisation project classes for Mechatronic System Indentification subject under professor **Tadeusz Stepinski** supervision on <u>AGH University of Science and Technology in Kraków</u> in 2022.
 
 ## Setting up
 
@@ -32,7 +32,7 @@ To run this project by your own
 git clone https://github.com/pgredys/spectral-processing-tool.git
 ```
 
-run file `test`
+run file `.gui\SpectralTool.mlapp`
 
 ## File structure
 
@@ -41,3 +41,7 @@ run file `test`
 `func` - contains self-implemented functions 
 
 `src` -  contains file created in purpose of testing implemented function
+
+`signals` - examples of imput signals 
+
+`gui` - contains gui files
